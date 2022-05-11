@@ -1,15 +1,19 @@
-.index-header{
+.index-body{
+    background-color: yellow;
     font-size: 50px;
     text-align:center;
-    color: rgb(90, 90, 87);
+    list-style-position: inside;
 }
+    
 
-.index-list{
-    font-size: 40px;
-    text-align: center;
+
+.page-body{
+    background-color: rgb(216, 192, 160);
+    text-align:center;
     list-style-position: inside;
 }
 
-.index-body{
-    background-color: rgb(186, 253, 147);
+.image{
+    height: auto;
+    width: 500px;
 }
